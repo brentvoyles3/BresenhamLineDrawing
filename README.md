@@ -1,7 +1,3 @@
-Assignment 1-2
-Brent Voyles
-811-115-092
-
 Instructions for running the program:
     Compile: javac PixelDraw.java
     Run: java PixelDraw
